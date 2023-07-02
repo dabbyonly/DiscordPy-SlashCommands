@@ -1,4 +1,4 @@
-# This Is A Tutorial Code File For Discord Slash Commands
+# Discord SlashCommanda
 
 # Discord.Py 2.0+
 
